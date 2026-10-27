@@ -12,8 +12,8 @@ This inspection establishes the network baseline before introducing additional i
 |---|---|
 | **VirtualBox Network Mode** | Bridged Adapter |
 | **Network Interface** | enp0s3 |
-| **IP Address** | 192.168.1.10 |
-| **Default Gateway** | 192.168.1.1 |
+| **IP Address** | 192.168.x.x |
+| **Default Gateway** | 192.168.x.x |
 | **DNS Servers** | 8.8.8.8, 8.8.4.4 |
 | **NetworkManager Profile** | enp0s3 |
 | **Connection Type** | Ethernet |
@@ -32,8 +32,8 @@ This inspection establishes the network baseline before introducing additional i
 ## 4. Findings
 
 - The primary network interface is recorded as enp0s3.
-- The server's recorded IPv4 address is 192.168.1.10.
-- The recorded default gateway is 192.168.1.1.
+- The server's recorded IPv4 address is 192.168.x.x.
+- The recorded default gateway is 192.168.x.x.
 - Two DNS servers are configured: 8.8.8.8 and 8.8.4.4.
 - The NetworkManager connection profile is named enp0s3 and has the Ethernet connection type.
 - The virtual machine uses Bridged Adapter networking.
