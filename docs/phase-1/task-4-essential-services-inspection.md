@@ -37,3 +37,7 @@ This establishes a baseline for subsequent configuration, connectivity testing, 
 This task inspected service states only. It did not verify SSH authentication security, firewall rule correctness, or end-to-end remote connectivity. Those checks should be performed separately when the project reaches the relevant tasks.
 
 No service configuration changes were made during this inspection.
+
+## 7. Evidence
+
+![Essential service status](../../screenshots/phase-1/task-4-service-status.png)

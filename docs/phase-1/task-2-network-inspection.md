@@ -49,3 +49,7 @@ Because the virtual machine uses bridged networking, its IP address must be appr
 The initial network inspection identified the server's primary interface, recorded IP configuration, default gateway, DNS servers, and NetworkManager profile.
 
 This information will support future connectivity testing and the integration of the RHEL server into the small-business infrastructure lab.
+
+## 7. Evidence
+
+![Network interface and IP configuration](../../screenshots/phase-1/task-2-network-config.png)

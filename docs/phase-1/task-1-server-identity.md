@@ -33,3 +33,7 @@ Identify the server's operating system, hostname, and basic system information t
 The server's basic identity and virtualization environment have been identified. This information provides the starting point for subsequent network, storage, and service inspections.
 
 No system configuration changes were required for this inspection.
+
+## 6. Evidence
+
+![Server identity and operating system](../../screenshots/phase-1/task-1-hostname.png)
