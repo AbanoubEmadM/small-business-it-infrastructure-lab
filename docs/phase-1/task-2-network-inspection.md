@@ -51,3 +51,5 @@ The initial network inspection identified the server's primary interface, record
 This information will support future connectivity testing and the integration of the RHEL server into the small-business infrastructure lab.
 
 ## 7. Evidence
+
+![Network interface and IP configuration](../../screenshots/phase-1/task-2-network-config.png)
