@@ -1,4 +1,3 @@
-# small-business-it-infrastructure-lab
 # Small Business IT Infrastructure Lab
 
 ## Overview
