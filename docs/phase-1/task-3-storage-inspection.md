@@ -54,3 +54,17 @@ The `du -h` command was used to investigate directory space consumption.
 The initial storage inspection established a baseline for filesystem capacity and utilization on the RHEL 9 server. The recorded output showed that the root and home filesystems had substantial available space, while the boot filesystem was half utilized.
 
 This baseline can be used for future capacity monitoring and troubleshooting. No storage configuration changes were made during this inspection.
+
+## 8. Evidence
+
+### Filesystem Utilization
+
+The following screenshot shows the filesystem capacity and utilization reported by `df -h`.
+
+![Filesystem utilization](../../screenshots/phase-1/task-3-filesystem-utilization.png)
+
+### Disk and Partition Layout
+
+The following screenshot shows the disk and filesystem information inspected using `lsblk -f`.
+
+![Disk and partition layout](../../screenshots/phase-1/task-3-storage-layout.png)
